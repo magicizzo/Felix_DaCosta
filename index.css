@@ -1,0 +1,78 @@
+/* 
+#main {
+display: flex;
+justify-content: center;
+width: 25%;
+height: 250px
+}
+*/ 
+
+.logo
+
+{
+display: flex;
+width: 500px;
+height: 250px; 
+flex-direction: center;
+
+}
+
+
+#haut
+{
+	display:flex;
+
+justify-content: flex-end; 
+}
+
+
+.connexion 
+{ 
+  background-color: 339cff ;
+  color: white;
+  width: 120px;
+  height: 35px;
+  font-weight: bold
+
+ }
+
+ 
+ #search 
+ {
+
+width: 500px;
+
+ }
+
+#block1 
+{
+display: flex;
+
+}
+
+
+#block2 
+{
+  display: flex;
+
+
+}
+
+#block3 
+{
+  display: flex;
+align-items : flex-end;
+flex-direction : row-reverse ;
+ 
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	background: lightgrey;
+	width : 100%;
+} 
+body
+{
+	margin: 0;
+
+}
